@@ -1,4 +1,4 @@
-const { solution } = require('./solution')
+const solution = require('./solution')
 
 describe('완주하지 못한 선수 테스트', () => {
     test('case1', () => {
