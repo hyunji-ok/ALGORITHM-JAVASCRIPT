@@ -1,3 +1,4 @@
 ## IDE 관련 파일
 .idea/
 node_modules/
+/package-lock.json
